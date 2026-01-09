@@ -1,5 +1,5 @@
 # Predicting Titanic Survivability
-
+# The main report file is the notebook Titanic_Survivability.ipynb
 ## Overview
 This project was completed as part of ** at the University of Calgary as part of the Data Science professional masters program.  
 The objective was to build and evaluate a supervised machine learning model to answer a research question of our choice.
